@@ -1,15 +1,17 @@
 <div align="center">
+
 <img src="./images/hello2.png" alt="hello" width="400px">
 <h1 align="center">Dana Xenia Marasca—@dxenia</h1>
 Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana</b> and I love coding. <br />
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 </div>
 
+
 ## About Me
 📍  Born and raised in Italy, now based in Malmö, Sweden. <br />
-🤖  Passionate about generative art in coding. <br />
-👩🏼‍💻  Focus on JavaScript and its related technologies. <br />
-💖  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
+🎨  Passionate about generative art in coding. <br />
+🌻  Focus on JavaScript and its related technologies. <br />
+🦋  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
 🐾  Fun fact: ACNH is my favorite video game.<br />
 
 ## My Current Tech Stack
@@ -28,6 +30,8 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![GitHub](https://img.shields.io/badge/-GitHub-1d1f21?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-1d1f21?style=for-the-badge&logo=canva)
+![Heroku](https://img.shields.io/badge/-Heroku-1d1f21?style=for-the-badge&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-1d1f21?style=for-the-badge&logo=netlify)
 
 <p>Along with improving my current skills, I am in the process of self-teaching:</p>
 
@@ -36,6 +40,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![Flutter](https://img.shields.io/badge/-Flutter-1d1f21?style=for-the-badge&logo=flutter)
 
 ## Get in touch!
-I am always open for collaborations, feedbacks, learning and working opportunities.<br />
+I am always open for feedback, collaborations, learning and working opportunities.<br />
 - LinkedIn: https://www.linkedin.com/in/dana-xenia-marasca/
 - email: marascadanaxenia@gmail.com
+
