@@ -1,18 +1,18 @@
-<p align="center">
+<div align="center">
 <img src="./images/hello2.png" alt="hello" width="450px">
-</p>
-<h1 align="center" style= "color: black;">Dana Xenia Marasca—@dxenia 🌝</h1>
-Nice to see you here, and welcome to my GitHub profile! My name is <b>Dana</b> and I am a web developer. <br />
+<h1 align="center">Dana Xenia Marasca—@dxenia</h1>
+Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana</b> and I am a web developer. <br />
+<img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
+</div>
 
-<h2 style= "color: black;">About Me</h2>
-📍  I was born and raised in Italy, now based in Malmö, Sweden. <br />
-🤖  I am passionate about generative art in coding, as well as learning new front-end technologies. <br />
-
+## About Me
+📍  Born and raised in Italy, now based in Malmö, Sweden. <br />
+🤖  Passionate about generative art in coding, as well as learning new front-end technologies. <br />
+💖  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
+💃  Retired ballet, jazz and contemporary dancer. <br />
 🐾  Fun fact: ACNH is my favorite video game.<br />
 
-<h3 style= "color: black;">Open for collaborations, learning and working opportunities 🪐</h3>
-
-<h2 style= "color: black;">My Current Tech Stack</h2>
+## My Current Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=css3)
@@ -38,3 +38,8 @@ Nice to see you here, and welcome to my GitHub profile! My name is <b>Dana</b> a
 <a href="https://github.com/dxenia">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxenia&title_color=ffffff&line_height=32&text_color=ffffff&icon_color=D086E1&bg_color=1d1f21&langs_count=4" />
 </a>
+
+## Get in touch!
+I am always open for collaborations, feedbacks, learning and working opportunities.<br />
+- LinkedIn: https://www.linkedin.com/in/dana-xenia-marasca/
+- email: marascadanaxenia@gmail.com
