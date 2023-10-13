@@ -10,7 +10,6 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 🤖  Passionate about generative art in coding. <br />
 👩🏼‍💻  Focus on JavaScript and its related technologies. <br />
 💖  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
-💃  Retired ballet, jazz and contemporary dancer. <br />
 🐾  Fun fact: ACNH is my favorite video game.<br />
 
 ## My Current Tech Stack
@@ -30,7 +29,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-1d1f21?style=for-the-badge&logo=canva)
 
-<p>In the process of self-teaching (along with improving my skills in the previous technologies!):</p>
+<p>Along with improving my current skills, I am in the process of self-teaching:</p>
 
 ![P5js](https://img.shields.io/badge/-P5.js-1d1f21?style=for-the-badge&logo=p5.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-1d1f21?style=for-the-badge&logo=next.js)
