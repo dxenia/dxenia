@@ -1,4 +1,4 @@
-<img src="./images/hello2.png" alt="hello" width="400px">
+<img src="./images/hello2.png" alt="hello" width="500px" align="center">
 <p align="left">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=html5)
@@ -17,5 +17,5 @@
 ![Canva](https://img.shields.io/badge/-Canva-1d1f21?style=for-the-badge&logo=canva)
 
 <a href="https://github.com/dxenia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxenia&title_color=D086E1&line_height=32&text_color=ffffff&icon_color=D086E1&bg_color=1d1f21&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxenia&title_color=CC6699&line_height=32&text_color=ffffff&icon_color=D086E1&bg_color=1d1f21&langs_count=4" />
 </a>
