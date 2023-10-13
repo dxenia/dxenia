@@ -35,10 +35,6 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![Next.js](https://img.shields.io/badge/-Next.js-1d1f21?style=for-the-badge&logo=next.js)
 ![Flutter](https://img.shields.io/badge/-Flutter-1d1f21?style=for-the-badge&logo=flutter)
 
-<a href="https://github.com/dxenia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxenia&title_color=ffffff&line_height=32&text_color=ffffff&icon_color=D086E1&bg_color=1d1f21&langs_count=4" />
-</a>
-
 ## Get in touch!
 I am always open for collaborations, feedbacks, learning and working opportunities.<br />
 - LinkedIn: https://www.linkedin.com/in/dana-xenia-marasca/
