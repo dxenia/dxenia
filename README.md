@@ -1,10 +1,10 @@
 <p align="center">
 <img src="./images/hello2.png" alt="hello" width="450px">
 </p>
-<h1 align="center">Dana Xenia Marasca—@dxenia 🌝</h1>
+<h1 align="center" style= "color: black">Dana Xenia Marasca—@dxenia 🌝</h1>
 Nice to see you here, and welcome to my GitHub profile! My name is <b>Dana</b> and I am a web developer. <br />
 
-<h2>About Me</h2>
+<h2 style= "color: black">About Me</h2>
 📍  I was born and raised in Italy, now based in Malmö, Sweden. <br />
 🤖  I am passionate about generative art in coding, as well as learning new front-end technologies. <br />
 
@@ -12,7 +12,7 @@ Nice to see you here, and welcome to my GitHub profile! My name is <b>Dana</b> a
 
 <h3>Open for collaborations, learning and working opportunities 🪐</h3>
 
-## My Current Tech Stack
+<h2 style= "color: black">My Current Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-1d1f21?style=for-the-badge&logo=css3&logoColor=css3)
