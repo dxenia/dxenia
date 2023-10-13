@@ -7,7 +7,8 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 
 ## About Me
 📍  Born and raised in Italy, now based in Malmö, Sweden. <br />
-🤖  Passionate about generative art in coding, as well as learning new front-end technologies. <br />
+🤖  Passionate about generative art in coding. <br />
+👩🏼‍💻  Focus on JavaScript and its related technologies.
 💖  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
 💃  Retired ballet, jazz and contemporary dancer. <br />
 🐾  Fun fact: ACNH is my favorite video game.<br />
@@ -29,7 +30,7 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![Figma](https://img.shields.io/badge/-Figma-1d1f21?style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/-Canva-1d1f21?style=for-the-badge&logo=canva)
 
-<p>In the process of self-teaching (along with the previous technologies):</p>
+<p>In the process of self-teaching (along with improving my skills in the previous technologies!):</p>
 
 ![P5js](https://img.shields.io/badge/-P5.js-1d1f21?style=for-the-badge&logo=p5.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-1d1f21?style=for-the-badge&logo=next.js)
