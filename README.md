@@ -1,5 +1,4 @@
-<body style="font-family: Helvetica; background: rgb(212,212,212);
-background: linear-gradient(56deg, rgba(212,212,212,1) 0%, rgba(112,149,237,1) 60%, rgba(45,107,253,1) 100%);">
+<body style="font-family: Helvetica">
 
 <p align="center">
 <img src="./images/hello2.png" alt="hello" width="450px">
