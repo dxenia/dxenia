@@ -1,9 +1,9 @@
 <body style="font-family: Helvetica">
 
-<img src="./images/hello2.png" alt="hello" width="450px" align="center">
-<br />
-<br />
-<h1>Nice to see you here.</h1>
+<p align="center">
+<img src="./images/hello2.png" alt="hello" width="450px">
+</p>
+<h1 align="center">Nice to see you here 🌝</h1>
 Welcome to my GitHub profile. My name is <b>Dana Xenia Marasca</b> and I am a web developer. <br />
 Born and raised in Italy, now based in Malmö, Sweden. <br />
 I am passionate about generative art in coding, as well as all things front-end.
