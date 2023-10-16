@@ -1,9 +1,11 @@
 <div align="center">
 
-<b>VIEW MY MOST RECENT PROJECT! → <a href="https://lunar-app.netlify.app/" target="_blank">Click here! 🌝</a></b><br /><br />
+<b>VIEW MY MOST RECENT PROJECT! → <a href="https://lunar-app.netlify.app/" target="_blank">Click here! 🌝</a></b><br />
+<br />
 <img src="./images/hello2.png" alt="hello" width="400px">
 <h1 align="center">Dana Xenia Marasca—@dxenia</h1>
 Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana</b> and I love coding. <br />
+
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 </div>
 
@@ -45,4 +47,4 @@ I am always open for feedback, collaborations, learning and working opportunitie
 
 <a href="mailto:contact@marascadanaxenia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/dana-xenia-marasca" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  
+<a href="https://dxenia-f90cb5afc803.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFADE5?style=for-the-badge&logo=About.me&logoColor=black"></a><br />
