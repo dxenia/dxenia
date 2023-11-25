@@ -36,15 +36,13 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 ![Heroku](https://img.shields.io/badge/-Heroku-1d1f21?style=for-the-badge&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-1d1f21?style=for-the-badge&logo=netlify)
 
-<p>Along with improving my current skills, I am in the process of self-teaching:</p>
+<p>Along with improving my current skills, I am in the process of learning:</p>
 
 ![P5js](https://img.shields.io/badge/-P5.js-1d1f21?style=for-the-badge&logo=p5.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-1d1f21?style=for-the-badge&logo=next.js)
-![Flutter](https://img.shields.io/badge/-Flutter-1d1f21?style=for-the-badge&logo=flutter)
 
 ## Get in touch!
 I am always open for feedback, collaborations, learning and working opportunities.<br />
 
 <a href="mailto:contact@marascadanaxenia@gmail.com" target="_blank"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/dana-xenia-marasca" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://dxenia-f90cb5afc803.herokuapp.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FFADE5?style=for-the-badge&logo=About.me&logoColor=black"></a><br />
