@@ -3,7 +3,7 @@
 <b>VIEW MY MOST RECENT PROJECT! → <a href="https://lunar-app.netlify.app/" target="_blank">Click here! 🌝</a></b><br />
 <br />
 <img src="./images/hello2.png" alt="hello" width="400px">
-<h1 align="center">Dana Xenia Marasca—@dxenia</h1>
+<h1 align="center">Dana — @dxenia</h1>
 Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana</b> and I love coding. <br />
 
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
