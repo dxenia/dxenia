@@ -11,7 +11,6 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 
 
 ## About Me
-📍  Born and raised in Italy, now based in Malmö, Sweden. <br />
 🎨  Passionate about generative art in coding. <br />
 🌻  Focus on JavaScript and its related technologies. <br />
 🦋  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
