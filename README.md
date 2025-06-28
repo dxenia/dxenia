@@ -9,12 +9,6 @@ Nice to see you here, and welcome to my GitHub profile! <br />My name is <b>Dana
 <img src="https://i.giphy.com/media/IDjrgUoFMGyKqy7Rn7/giphy.webp" alt="frog" width="50px">
 </div>
 
-
-## About Me
-🎨  Passionate about generative art in coding. <br />
-🌻  Focus on JavaScript and its related technologies. <br />
-🦋  Attentive to details with a beginner's mindset. Curiosity as the top priority, always! <br />
-
 ## My Current Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-1d1f21?style=for-the-badge&logo=html5&logoColor=html5)
